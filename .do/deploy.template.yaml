@@ -1,0 +1,8 @@
+spec:
+  name: WordPress
+  static_sites:
+  - environment_slug: html
+    git:
+      branch: master
+      repo_clone_url: git@github.com:kofshinobi/WordPress.git
+    name: WordPress
